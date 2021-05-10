@@ -1,3 +1,4 @@
+//https://www.spoj.com/RGB7/problems/RGB7002/
 #include<stdio.h>
 
 int main(){
